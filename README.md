@@ -28,5 +28,5 @@ This project contains a Jupyter notebook `demo.ipynb` that demonstrates various 
 - Tools and Toolkits: Interfaces that an agent, chain, or language model can use to interact with the world.
 - Agents: Use a language model to choose a sequence of actions to take.
 
-# Running the Demo
+## Running the Demo
 To run the demo, open the demo.ipynb notebook in Jupyter Notebook and run the cells in order.
